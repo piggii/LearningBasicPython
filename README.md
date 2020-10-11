@@ -1,3 +1,3 @@
 # LearningBasicPython
 
-## Coming soon ⌛
+## Coming soon 🎯
